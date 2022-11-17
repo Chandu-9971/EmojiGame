@@ -1,0 +1,36 @@
+.navbar-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #ffffff33;
+}
+.title-score-container {
+  display: flex;
+  justify-content: space-between;
+  flex-basis: 80%;
+  max-width: 1000px;
+}
+.logo-and-title-container {
+  display: flex;
+  align-items: center;
+}
+.emoji-logo {
+  width: 24px;
+}
+.heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 28px;
+  font-weight: 500;
+}
+.scores-container {
+  display: flex;
+}
+.paragraph {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 28px;
+  font-weight: 500;
+  padding: 2px;
+  align-items: right;
+}
